@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chronometer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="titulo_actividad_lista">Lista</string>
+    <string name="actividad_cronometro">Cronometro</string>
+    <string name="interval">Intervalo</string>
+
+    <string-array name="seg">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="rep">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
